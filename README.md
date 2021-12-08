@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deepesh</h1>
 <h3 align="center">A passionate MERN stack developer.</h3>
 <img align="center" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coder" width="100%"/>
-- 👨‍💻 All of my projects are available at [https://github.com/deepesh06-95](https://github.com/deepesh06-95)
+- 👨‍💻 All of my projects are available at [https://github.com/deepesh06-95]
 
 - 💬 Ask me about **Javascipt,React,HTML & CSS.**
 
