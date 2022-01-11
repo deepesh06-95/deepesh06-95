@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Deepesh</h1>
 <h3 align="center">A passionate MERN stack developer.</h3>
+<h3 align="center">Initiative and energetic always likes to take new challenges. Never leaves an opportunity to learn and gain knowledge. Would like to explore technological implementations to find solutions to a lot of problems. Aim to leave a mark on my work at every level of my career.</h3>
 <img align="center" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coder" width="100%"/>
 - 👨‍💻 All of my projects are available at [https://github.com/deepesh06-95]
 
